@@ -19,11 +19,11 @@
     "vue-router": "https://github.com/DanielRosenwasser/vue-router#01b8593cf69c2a5077df45e37e2b24d95bf35ce3"
   },
   "devDependencies": {
-    "css-loader": "^0.28.1",
-    "ts-loader": "^2.0.3",
-    "typescript": "^2.3.2",
-    "vue-loader": "^12.0.3",
-    "vue-template-compiler": "2.2.1",
-    "webpack": "^2.5.0"
+    "css-loader": "^0.28.7",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "vue-loader": "^12.2.2",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "^2.7.0"
   }
 }

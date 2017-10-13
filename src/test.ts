@@ -98,4 +98,6 @@ function buildName(firstName: string = 'Xcat', lastName: string) {
 let xcatliu2 = buildName('Xcat', 'Liu');
 let xcat = buildName(undefined, 'Xcat');
 
-
+document.addEventListener('click', function(e) {
+  console.log(e.target);
+});
